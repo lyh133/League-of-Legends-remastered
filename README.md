@@ -1,10 +1,10 @@
 # League-of-Legends-remastered
 
-My own League of Legends made with unity with C# ( still in development stage )
+My own League of Legends made with unity with C# for fun ( still in development stage )
 
 
 
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 
