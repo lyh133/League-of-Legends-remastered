@@ -7,33 +7,12 @@ click image to watch video
 [![Watch the video](https://i.imgur.com/QC6VOp5.png)](https://www.youtube.com/watch?v=Ak2sP-YvsOE)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 click image to watch video
 [![Watch the video](https://i.imgur.com/LQXdcOb.png)](https://www.youtube.com/watch?v=7-otwCnBnds)
 
 
-
-
-
-
-
+click image to watch video
+[![Watch the video](https://i.imgur.com/EXpN47I.png)](https://www.youtube.com/watch?v=_Wnq_r_ZVt0&feature=youtu.be)
 
 
 
