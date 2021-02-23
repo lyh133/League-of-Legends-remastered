@@ -3,7 +3,7 @@
 My own League of Legends made with unity with C# for fun ( still in development stage )
 
 
-click to watch video
+click image to watch video
 [![Watch the video](https://i.imgur.com/QC6VOp5.png)](https://www.youtube.com/watch?v=Ak2sP-YvsOE)
 
 
